@@ -3,7 +3,6 @@
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Nuria Rivas</h1>
 <h3 align="center">JUNIOR FRONT-END DEVELOPER - PHOTOGRAPHER</h3>
-<img align="center" src="https://media.tenor.com/IxQ371ePTrkAAAAC/type.gif" alt=gif>
 
 - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
 
@@ -57,3 +56,5 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+
+<img align="center" src="https://media.tenor.com/IxQ371ePTrkAAAAC/type.gif" alt=gif>
