@@ -11,6 +11,7 @@
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
 
 - 📫 PUEDES CONTACTARME EN **nuriarivasbotello@gmail.com**
+  <img align="right" src="https://media.tenor.com/IxQ371ePTrkAAAAC/type.gif" alt=gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +31,6 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" />
   </a>
 </p>
-<img align="right" src="https://media.tenor.com/IxQ371ePTrkAAAAC/type.gif" alt=gif>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
