@@ -2,11 +2,11 @@
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Nuria Rivas</h1>
-<h3 align="center">QUE TE APASIONA</h3>
+<h3 align="center">**JUNIOR FRONT-END DEVELOPER, PHOTOGRAPHER**</h3>
 
 - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
 
-- 🌱 ESTOY ESTUDIANDO **INTRODUCE LENGUAJES, FRAMEWORKS**
+- 🌱 ESTOY ESTUDIANDO **FRONT-END EN LA ESCUELA TRAZOS**
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
 
