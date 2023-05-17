@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](Logo%20vectorial-ai.svg)
+<img align="center" src="https://raw.githubusercontent.com/nuriarivasbotello/nuriarivasbotello/1ecc66667f55ec0a2961eec4f5ef8e6dffab0b16/Logo%20vectorial-ai.svg" alt="Imagen decorativa de tu perfil">
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Nuria Rivas</h1>
