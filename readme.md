@@ -1,5 +1,5 @@
 ![Imagen decorativa de tu perfil]
-<a align= "center"(Logo%20vectorial-ai.svg)>
+(Logo%20vectorial-ai.svg)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Nuria Rivas</h1>
