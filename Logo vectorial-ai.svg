@@ -3,7 +3,7 @@
 	<style>
 		tspan { white-space:pre } 
 		.s0 { fill: none;stroke: #231f20;stroke-width: 20 } 
-		.s1 { fill: #231f20 } 
+		.s1 { fill: #FFFFFF } 
 	</style>
 	<g id="Capa 1">
 		<path id="&lt;Path&gt;" class="s0" d="m766.3 1371.5h-726.9v-1340.9h726.9z"/>
