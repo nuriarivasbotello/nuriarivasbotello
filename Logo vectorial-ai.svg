@@ -2,7 +2,7 @@
 	<title>Logo vectorial-ai</title>
 	<style>
 		tspan { white-space:pre } 
-		.s0 { fill: none;stroke: #FFFFFF;stroke-width: 20 } 
+		.s0 { fill: none ;stroke: none;stroke-width: 20 } 
 		.s1 { fill: #FFFFFF } 
 	</style>
 	<g id="Capa 1">
