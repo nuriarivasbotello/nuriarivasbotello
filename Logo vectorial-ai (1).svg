@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 525" width="300" height="525">
+	<title>Logo vectorial-ai</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #FFFFFF;stroke-width: 7.5 } 
+		.s1 { fill: #FFFFFF } 
+	</style>
+	<g id="Capa 1">
+		<path id="&lt;Path&gt;" class="s0" d="m14.8 11.5h272.5v502.8h-272.5z"/>
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Compound Path&gt;" class="s1" d="m137.1 66.3v235.7h-20.1v-215.6h-27v215.6h-20.1v-235.7z"/>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s1" d="m231.4 263.7l-10 10.3 10 10.1v175h-20.4v-175h-26.7v174.4h-20.1v-235.1h67.2zm-47.4 0.3h27v-20.1h-27z"/>
+			<text id="" style="transform: matrix(1,0,0,1,190,286)" >
+			</text>
+		</g>
+	</g>
+</svg>
