@@ -3,6 +3,7 @@
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Nuria Rivas</h1>
 <h3 align="center">JUNIOR FRONT-END DEVELOPER - PHOTOGRAPHER</h3>
+<img align="center" src="https://media.tenor.com/IxQ371ePTrkAAAAC/type.gif" alt=gif>
 
 - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
 
@@ -11,7 +12,6 @@
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
 
 - 📫 PUEDES CONTACTARME EN **nuriarivasbotello@gmail.com**
-  <img align="right" src="https://media.tenor.com/IxQ371ePTrkAAAAC/type.gif" alt=gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
