@@ -2,9 +2,9 @@
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Nuria Rivas</h1>
-<h3 align="center">JUNIOR FRONT-END DEVELOPER - PHOTOGRAPHER</h3>
+<h3 align="center">diseñadora gráfica, UX/UI designer, front-end web developer y fotógrafa</h3>
 
-- 🔭 ACTUALMENTE TRABAJO EN [...](URL-DEL-PROYECTO)
+- 🔭 ACTUALMENTE TRABAJO EN MIS PROYECTOS [...](URL-DEL-PROYECTO)
 
 - 🌱 ESTOY ESTUDIANDO **DISEÑO GRÁFICO - UX EN ESDIMA**
 
