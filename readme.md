@@ -8,7 +8,7 @@
 
 - 🌱 ESTOY ESTUDIANDO **DISEÑO UX/UI EN CEI**
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [nuriarivas.com]([MIDOMINIO.COM](https://nuriarivas.com/))
+- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [nuriarivas.com]([MIDOMINIO.COM](https://nuriarivas.es/))
 
 - 📫 PUEDES CONTACTARME EN **nuriarivasbotello@gmail.com**
 
